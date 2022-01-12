@@ -1,4 +1,4 @@
-# Curso de Java da Udemy
+# Curso de Java na Udemy
 
 Neste repositório estarão os projetos desenvolvidos durante o curso de Java da Udemy que se encontra no link:
 
